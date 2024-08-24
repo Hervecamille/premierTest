@@ -1,0 +1,3 @@
+JavaScript est un langage de programmation principalement utilisé pour créer des éléments interactifs et dynamiques sur les pages web. 
+JavaScript permet d'ajouter des fonctionnalités avancées comme des animations, des formulaires interactifs, et des mises à jour de contenu en temps réel.
+

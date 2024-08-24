@@ -1,0 +1,3 @@
+React (ou React.js) est une bibliothèque JavaScript open-source utilisée pour créer des interfaces utilisateur. 
+
+Peut créer des composants réutilisables et les assembler pour créer des applications complexes.

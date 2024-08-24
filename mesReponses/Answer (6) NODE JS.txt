@@ -1,0 +1,2 @@
+Node.js est un environnement d'exécution JavaScript open-source et multi-plateforme. 
+Il permet d'exécuter du code JavaScript côté serveur, 

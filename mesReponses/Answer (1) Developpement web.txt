@@ -1,0 +1,7 @@
+Le developpement web est le processus de creation et de gestion de sites web et d'applications web pour internet et intranet.
+-definir le contenu a afficher, HTML
+-indiquer au navigateur comment l'afficher, CSS
+-rendre le contenu attractif, JavaSript;
+sont les outils(langage de programmation) principalement utilises pour leurs codages.
+
+

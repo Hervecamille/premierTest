@@ -1,0 +1,6 @@
+CSS signifie Cascading Style Sheets (feuilles de style en cascade en français). 
+C'est un langage utilisé pour décrire la présentation d'un document écrit en HTML ou XML. 
+CSS permet de contrôler l'apparence visuelle des pages web(mis en forme), les couleurs, les polices, 
+les espacements, et la disposition des éléments.
+
+
